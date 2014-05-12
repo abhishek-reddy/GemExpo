@@ -5,6 +5,7 @@ gem 'rails', '4.0.4'
 
 # Use mysql2 as the database for Active Record
 gem 'mysql2'
+gem 'devise'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
